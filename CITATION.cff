@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Health Impact in Colombia (2024–2025): Key Indicators, Factors and Disease Data"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.18985555"
+url: "https://doi.org/10.5281/zenodo.18985555"
+repository-code: "https://github.com/juanmoisesd/health-impact-in-colombia-20242025-key-indicators-factors-and-disease-data"
+license: CC0-1.0
+date-released: "2026-03-12"
+keywords:
+  - "Colombia"
+  - "health indicators"
+  - "mental health"
+  - "infectious disease"
+  - "public health"
+  - "PAHO"
+  - "longitudinal dataset"
