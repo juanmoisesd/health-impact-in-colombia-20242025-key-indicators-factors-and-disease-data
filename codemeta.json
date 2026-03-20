@@ -1,0 +1,25 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Health Impact in Colombia (2024\u20132025): Key Indicators, Factors and Disease Data",
+  "identifier": "10.5281/zenodo.18985555",
+  "url": "https://doi.org/10.5281/zenodo.18985555",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "Colombia",
+    "health indicators",
+    "mental health",
+    "infectious disease",
+    "public health",
+    "PAHO",
+    "longitudinal dataset"
+  ]
+}
