@@ -1,25 +1,50 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Health Impact in Colombia (2024\u20132025): Key Indicators, Factors and Disease Data",
-  "identifier": "10.5281/zenodo.18985555",
-  "url": "https://doi.org/10.5281/zenodo.18985555",
+  "@type": "SoftwareSourceCode",
+  "name": "Comprehensive dataset of key health indicators for Colombia (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce data, infectious disease surveillance (COVID-19, dengue, malaria, HIV), non-communicabl",
+  "description": "Comprehensive dataset of key health indicators for Colombia (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce data, infectious disease surveillance (COVID-19, dengue, malaria, HIV), non-communicabl",
+  "url": "https://github.com/juanmoisesd/health-impact-in-colombia-20242025-key-indicators-factors-and-disease-data",
+  "codeRepository": "https://github.com/juanmoisesd/health-impact-in-colombia-20242025-key-indicators-factors-and-disease-data",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "Colombia",
-    "health indicators",
-    "mental health",
-    "infectious disease",
-    "public health",
-    "PAHO",
-    "longitudinal dataset"
-  ]
+    "cc0",
+    "colombia",
+    "dataset",
+    "health-indicators",
+    "infectious-disease",
+    "longitudinal-dataset",
+    "mental-health",
+    "open-data",
+    "paho",
+    "public-health",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
