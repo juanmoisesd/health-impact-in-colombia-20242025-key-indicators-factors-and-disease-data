@@ -1,0 +1,23 @@
+{
+  "title": "Comprehensive dataset of key health indicators for Colombia (2020-2025). Include",
+  "id": "juanmoisesd/health-impact-in-colombia-20242025-key-indicators-",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "clinical-psychology",
+    "colombia",
+    "dataset",
+    "fair-data",
+    "health-indicators",
+    "infectious-disease",
+    "juan-moises-de-la-serna",
+    "longitudinal-dataset"
+  ],
+  "description": "Comprehensive dataset of key health indicators for Colombia (2020-2025). Includes mental health metrics (depression, anxiety, suicide rates), healthcare workforce data, infectious disease surveillance (COVID-19, dengue, malaria, HIV), non-communicabl\n\nDOI: https://github.com/juanmoisesd/health-impact-in-colombia-20242025-key-indicators-factors-and-disease-data\nGitHub: https://github.com/juanmoisesd/health-impact-in-colombia-20242025-key-indicators-factors-and-disease-data\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
